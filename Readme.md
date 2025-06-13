@@ -2,6 +2,7 @@
 
 ```bash
 git clone https://github.com/Keloce-2005/Projet_docker.git
+cd Projet_docker
 docker-compose up --build
 ```
 
