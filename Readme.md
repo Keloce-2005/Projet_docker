@@ -1,8 +1,7 @@
 ## Installation
 
 ```bash
-git clone <repo-url>
-cd my-docker-todo-app
+git clone https://github.com/Keloce-2005/Projet_docker.git
 docker-compose up --build
 ```
 
