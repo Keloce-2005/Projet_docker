@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/Keloce-2005/Projet_docker.git
-docker-compose up --build
+docker-compose up --build ou docker-compose up -d (pour lanceer en arrière plan)
 ```
 
 ## Accès à l'application
